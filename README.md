@@ -16,7 +16,7 @@ The current design includes:
 - External amplifiers
 - Multiple speaker groups
 - TFT display with rotary encoder
-- Custom transparent enclosure
+- Custom enclosure
 
 - ## Hardware Architecture
 As of November 9, 2026
