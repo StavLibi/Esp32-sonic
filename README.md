@@ -18,6 +18,11 @@ The current design includes:
 - TFT display with rotary encoder
 - Custom transparent enclosure
 
+- ## Hardware Architecture
+As of November 9, 2026
+
+![Hardware Architecture](images/HarArc9nov26.png)
+
 ## Software
 
 The firmware is being designed with separate modules for:
