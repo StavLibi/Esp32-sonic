@@ -43,3 +43,6 @@ The project is currently in the hardware planning and system design stage.
 I'm documenting the design decisions, implementation process and technical challenges throughout development.
 
 Hardware specifications and development tasks are tracked in the repository's Issues.
+
+## LOG
+09/11/26 The project diagram is finally ready. still looking to get missing parts for the circuit. missing parts: 4 way amplifier, voltage reducer, 3 way crossover. Today also started coding.
