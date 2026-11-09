@@ -21,7 +21,7 @@ The current design includes:
 - ## Hardware Architecture
 As of November 9, 2026
 
-![Hardware Architecture](images/HarArc9nov26.png)
+![Hardware Architecture](images/v0.jpg)
 
 ## Software
 
