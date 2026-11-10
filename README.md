@@ -54,4 +54,6 @@ I'm documenting the design decisions, implementation process and technical chall
 Hardware specifications and development tasks are tracked in the repository's Issues.
 
 ## LOG
-09/11/26 The project diagram is finally ready. still looking to get missing parts for the circuit. missing parts: 4 way amplifier, voltage reducer, 3 way crossover. Today also started coding.
+- 09/11/26 The project diagram is finally ready. still looking to get missing parts for the circuit. missing parts: 4 way amplifier, voltage reducer, 3 way crossover. Today also started coding.
+- 10/11/26 I'm a proud gal i finished the design. definitely hipped and looking forward to make a progress. Also ordered the parts but the main Power Supply, will do after the shipping arrive. 
+
