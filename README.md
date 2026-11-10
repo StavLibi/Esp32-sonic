@@ -11,17 +11,26 @@ The system uses two I2S interfaces connected to separate stereo DACs, providing 
 ## Hardware
 
 The current design includes:
-- ESP32-WROOM-32E
-- 2x PCM5102A stereo DACs
-- External amplifiers
-- Multiple speaker groups
-- TFT display with rotary encoder
-- Custom enclosure
+- ESP32 DEVKIT-32E
+- MONITOR TFT EC11
+- PW 24V 25A
+- DC-DC 5V
+- DC-AC 19V
+- DAC GY-PCM1002
+- AUDIO SPLITER *2
+- 3*2 WAY CROSSOVER
+- AMPLIFIER 5.1 YJCO TPA3116 4ohm
+- AMPLIFIER 2.1 XH-M139 4ohm
+- BASE Speaker *2 
+- FULL-RANGE Speaker *2
+- TWITTER Speaker *2
+- MID-RANGE Speaker *2
+- SUBWOOFER Speaker *2 
 
 - ## Hardware Architecture
 As of November 9, 2026
 
-![Hardware Architecture](images/v0.jpg)
+![Hardware Architecture](images/finalCircut.jpg)
 
 ## Software
 
