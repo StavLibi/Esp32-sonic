@@ -46,14 +46,10 @@ The firmware is being designed with separate modules for:
 The goal is to keep the audio processing, hardware communication and user interface independent, making the system easier to develop, test and expand.
 
 ## Development
-
-The project is currently in the hardware planning and system design stage.
-
-I'm documenting the design decisions, implementation process and technical challenges throughout development.
-
-Hardware specifications and development tasks are tracked in the repository's Issues.
+![SquareLine UI Preview](Assets/assets/screenshoot_sqarelines.png)
 
 ## LOG
 - 09/11/26 The project diagram is finally ready. still looking to get missing parts for the circuit. missing parts: 4 way amplifier, voltage reducer, 3 way crossover. Today also started coding.
-- 10/11/26 I'm a proud gal i finished the design. definitely hipped and looking forward to make a progress. Also ordered the parts but the main Power Supply, will do after the shipping arrive. 
+- 10/11/26 I'm a proud gal i finished the design. definitely hipped and looking forward to make a progress. Also ordered the parts but the main Power Supply, will do after the shipping arrive.
+- 13/11/26 I fineshed the design for the player using sqarelines for lvgl. its a retro style beaver 2d inspired design. i think its lookiing sharp lulz
 
