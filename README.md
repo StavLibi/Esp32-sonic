@@ -46,6 +46,9 @@ The firmware is being designed with separate modules for:
 The goal is to keep the audio processing, hardware communication and user interface independent, making the system easier to develop, test and expand.
 
 ## Development
+
+To work on or modify the UI layout, open the project in **SquareLine Studio**, make your design adjustments, and export the generated LVGL C/H source files directly into the `SonicCoreUI/` directory. For firmware compilation and flashing to the ESP32, use **PlatformIO** or the **Arduino IDE** with the required LVGL and display driver dependencies properly configured in your environment.
+
 ![SquareLine UI Preview](Assets/screenshoot_sqarelines.png)
 
 ## LOG
