@@ -46,7 +46,7 @@ The firmware is being designed with separate modules for:
 The goal is to keep the audio processing, hardware communication and user interface independent, making the system easier to develop, test and expand.
 
 ## Development
-![SquareLine UI Preview](Assets/assets/screenshoot_sqarelines.png)
+![SquareLine UI Preview](Assets/screenshoot_sqarelines.png)
 
 ## LOG
 - 09/11/26 The project diagram is finally ready. still looking to get missing parts for the circuit. missing parts: 4 way amplifier, voltage reducer, 3 way crossover. Today also started coding.
